@@ -13,9 +13,6 @@ namespace E_Commerce.Controllers
         {
             return View();
         }
-        //public ActionResult AboutAdmin()
-        //{
-        //    return View();
-        //}
+
     }
 }
